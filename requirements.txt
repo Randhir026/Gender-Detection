@@ -1,0 +1,5 @@
+tensorflow>=2.10
+numpy>=1.19
+opencv-python>=4.5
+scikit-learn>=1.0
+matplotlib>=3.3
